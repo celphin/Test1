@@ -1,2 +1,2 @@
 # Test1
-Learning how to use git
+This is the repo to learn how to git
